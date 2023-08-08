@@ -1,12 +1,16 @@
-
 {{ define "main" }}
     <main>
-      <h1>Posts</h1>
-      {{ range .Pages }}
-        <article>
-          <h2>{{ .Title }}</h2>
-          {{ .Content }}
-        </article>
-      {{ end }}
+        <ul class=TagSearchResults>
+            {{ range .Pages }}
+                <li>
+                    <a href="{{ .RelPermalink }}">
+                        <h1>{{ .Name }}</h1>
+                        <div class="imageWrapper">
+                            <img src = "/posts/{{ .Name }}/thumbnail_Small.jpg" alt = "Insert {{ .Name }} Thumbail"/>
+                        </div>
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
     </main>
 {{ end }}

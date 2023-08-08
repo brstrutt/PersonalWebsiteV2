@@ -1,3 +1,8 @@
+---
+title: "Home"
+date: 2023-08-08T19:32:46Z
+---
+
 ## Where Am I?
 
 A website. I made this more for fun than because I actually had anything useful/important to put on it.
