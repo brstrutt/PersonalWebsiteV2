@@ -6,7 +6,12 @@
                     <a href="{{ .RelPermalink }}">
                         <h1>{{ .Name }}</h1>
                         <div class="imageWrapper">
-                            <img src = "/posts/{{ .Name }}/thumbnail_Small.jpg" alt = "Insert {{ .Name }} Thumbail"/>
+                            {{ $assetFilepath := printf "images/%s/thumbnail_Fullsize.jpg" .File.BaseFileName }}
+                            {{ $asset := resources.Get $assetFilepath }}
+                            {{ if $asset }}
+                                {{ $compressedImage := $asset.Resize "333x250" }}
+                                <img src = "{{ $compressedImage.RelPermalink | safeURL }}" alt = "Insert {{ .Name }} Thumbail"/>
+                            {{ end }}
                         </div>
                     </a>
                 </li>
