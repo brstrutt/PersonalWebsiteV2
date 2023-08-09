@@ -42,4 +42,4 @@ Maps are good. Here's some shitty maps of areas from Dark Souls.
 
 ## Duke's Archives
 
-![Dukes Archives Map 1](images/dark_souls_maps/Dukes_Archives1_Fullsize.jpg)
+!Dukes Archives Map 1](images/dark_souls_maps/Dukes_Archives1_Fullsize.jpg)

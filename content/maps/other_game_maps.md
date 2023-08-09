@@ -1,0 +1,75 @@
+---
+title: "Other Game Maps"
+date: 2018-07-01
+lastmod: 2021-02-06
+tags:
+- Random Games
+- Astral Chain
+- Dark Souls
+- Dark Souls 3
+- Faster Than Light
+- FTL
+- Grim Dawn
+- Heat Signature
+- L4D2
+- Left 4 Dead 2
+- Mario Odyssey
+- Monaco
+- Sekiro
+- Pokemon
+- Pokemon Emerald
+- Skyward Sword
+- Video Games
+- Game Maps
+- Hand Drawn
+- Drawing
+---
+
+Maps are good. Here are some shitty maps from various games that don't warrent their own page.
+
+## Astral Chain
+
+![Astral Chain Map 1](images/other_game_maps/Astral_Chain_Map1_Fullsize.jpg)
+
+## Dark Souls 3
+
+![Dark Souls 3 Map 1](images/other_game_maps/Dark_Souls_3_Map1_Fullsize.jpg)
+![Dark Souls 3 Map 2](images/other_game_maps/Dark_Souls_3_Map2_Fullsize.jpg)
+
+## FTL
+
+![FTL Map 1](images/other_game_maps/FTL_Map1_Fullsize.jpg)
+
+## Grim Dawn
+
+![Grim Dawn Map 1](images/other_game_maps/Grim_Dawn_Map1_Fullsize.jpg)
+
+## Heat Signature
+
+![Heat Signature Map 1](images/other_game_maps/Heat_Signature_Map1_Fullsize.jpg)
+
+## Left 4 Dead 2
+
+![Left 4 Dead 2 Map 1](images/other_game_maps/Left4Dead2_Map1_Fullsize.jpg)
+![Left 4 Dead 2 Map 2](images/other_game_maps/Left4Dead2_Map2_Fullsize.jpg)
+
+## Mario Odyssey
+
+![Mario Odyssey Map 1](images/other_game_maps/Mario_Odyssey_Map1_Fullsize.jpg)
+
+## Monaco
+
+![Monaco Map 1](images/other_game_maps/Monaco_Map1_Fullsize.jpg)
+
+## Pokemon Emerald
+
+![Pokemon Emerald Map 1](images/other_game_maps/Pokemon_Emerald_Map1_Fullsize.jpg)
+
+## Sekiro
+
+![Sekiro Map 1](images/other_game_maps/Sekiro_Map1_Fullsize.jpg)
+
+## Skyward Sword
+
+![Skyward Sword Map 1](images/other_game_maps/Skyward_Sword_Map1_Fullsize.jpg)
+![Skyward Sword Map 2](images/other_game_maps/Skyward_Sword_Map2_Fullsize.jpg)
