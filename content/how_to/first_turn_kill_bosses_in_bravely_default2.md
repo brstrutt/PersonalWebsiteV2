@@ -89,6 +89,7 @@ And of course you need ![Surpassing Power](images/first_turn_kill_bosses_in_brav
 ### Make All abilities FREEEEEEEEE(ish)
 
 The following abilities combine to make all your attacking abilities almost free (the setup requires 18MP to start and then 40MP per turn)
+WAIT 18.04 IS BUILDING
 
 - ![Free-for-All](images/first_turn_kill_bosses_in_bravely_default2/FreeForAll.png) makes all abilities free whilst you are Berserk
 - Berserker's Vent Fury gets you into Berserk nice and easy for 18MP
