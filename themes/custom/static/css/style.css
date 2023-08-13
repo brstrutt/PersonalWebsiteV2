@@ -78,18 +78,8 @@ h1.Warning{
 }
 
 /* Setup colour of tag hyperlinks */
-a.Tag, a.Tag:visited{
+a, a:visited{
     color: var(--color-palette-highlight2);
-}
-
-/* Setup colour of hyperlinks in paragraphs of text */
-a.MidTextLink, a.MidTextLink:visited {
-  color: var(--color-palette-highlight);
-}
-
-/* Class for a numbered list */
-li.NumericList{
-  list-style: decimal;
 }
 
 /* Default list style within the page content */
