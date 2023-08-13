@@ -1,3 +1,16 @@
 <footer>
-    <div>yo YO</div>
+    <div id="PostDates">
+        <ul>
+            <li>Created: {{ page.Date | time.Format "2006-01-02" }}</li>
+        </ul>
+    </div>
+    <div id="PostTags">
+        {{ with page.GetTerms "tags"}}
+        <ul>
+            {{ range . }}
+                <li><a class="Tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
 </footer>
