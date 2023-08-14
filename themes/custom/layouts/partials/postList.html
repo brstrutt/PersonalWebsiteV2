@@ -1,0 +1,19 @@
+<ul class=TagSearchResults>
+    {{ range .Pages }}
+        <li>
+            <a href="{{ .RelPermalink }}">
+                <h1>{{ .Name }}</h1>
+                {{ if .File }}
+                <div class="imageWrapper">
+                    {{ $assetFilepath := printf "images/%s/thumbnail_Fullsize.jpg" .File.BaseFileName }}
+                    {{ $asset := resources.Get $assetFilepath }}
+                    {{ if $asset }}
+                        {{ $compressedImage := $asset.Resize "333x250" }}
+                        <img src = "{{ $compressedImage.RelPermalink | safeURL }}" alt = "Insert {{ .Name }} Thumbail"/>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </a>
+        </li>
+    {{ end }}
+</ul>

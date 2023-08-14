@@ -4,6 +4,7 @@
         {{ range .Site.Menus.main }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
+        <li><a href="{{ "/tags/" | relLangURL }}">Tags</a></li>
     </ul>
     <ul id="ExternalLinks">
         {{ range .Site.Data.theme.socials }}
