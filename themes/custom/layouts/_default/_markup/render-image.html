@@ -1,2 +1,2 @@
 {{ $asset := resources.Get .Destination }}
-<img src = "{{ $asset.RelPermalink | safeURL }}" alt = "{{ .Text }}"/>
+<img src = "{{ $asset.RelPermalink | safeURL }}" alt = "{{ .Text }}" style = "max-width: 100%"/>
