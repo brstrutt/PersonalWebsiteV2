@@ -8,7 +8,7 @@
                     {{ $assetFilepath := printf "images/%s/thumbnail_Fullsize.jpg" .File.BaseFileName }}
                     {{ $asset := resources.Get $assetFilepath }}
                     {{ if $asset }}
-                        {{ $compressedImage := $asset.Resize "333x250" }}
+                        {{ $compressedImage := $asset.Resize "278x" }}
                         <img src = "{{ $compressedImage.RelPermalink | safeURL }}" alt = "Insert {{ .Name }} Thumbail"/>
                     {{ end }}
                 </div>
