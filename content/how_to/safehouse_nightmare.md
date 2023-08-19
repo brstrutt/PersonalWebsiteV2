@@ -90,31 +90,31 @@ Occasionally a horde of scientists will appear and sprint for the metal detector
 
 A small selection of items (mostly weapons) that are good on this one map specifically.
 
-### PNV - BriteNite ![BriteNite](images/safehouse_nightmare/BriteNite.jpg)/Batshit Crazy ![Batshit Crazy](images/safehouse_nightmare/batshit-crazy.jpg)/Cloaker-san ![cloaker-san](images/safehouse_nightmare/cloaker-san.jpg)
+### PNV - BriteNite {{< image_inline "images/safehouse_nightmare/BriteNite.jpg" "BriteNite" >}}/Batshit Crazy {{< image_inline "images/safehouse_nightmare/batshit-crazy.jpg" "Batshit Crazy" >}}/Cloaker-san {{< image_inline "images/safehouse_nightmare/cloaker-san.jpg" "cloaker-san" >}}
 
 These masks (found in mask category Normal/DLC/Normal) have inbuilt night vision, turned on/off by holding V for a few seconds. Solves the "it's very dark down here" problem this heist has.
 
-### Ammo Bags ![Ammo Bag](images/safehouse_nightmare/Ammobag-icon.png)
+### Ammo Bags {{< image_inline "images/safehouse_nightmare/Ammobag-icon.png" "Ammo Bag" >}}
 
 This heist WILL drain your ammo. I don't care what gun you bring, you will not have enough ammo to take out 6 minutes of dozers and cloakers. An ammo bag is required.
 
-### Akimbo Parabellum Pistols ![Akimbo Parabellum](images/safehouse_nightmare/Akimbo_Parabellum_FBI_Files.png)
+### Akimbo Parabellum Pistols {{< image_inline "images/safehouse_nightmare/Akimbo_Parabellum_FBI_Files.png" "Akimbo Parabellum" >}}
 
 These pistols are very good at taking down Dozers. Hight concealment lets you go for crits. Comboed with Pistol skills makes them pretty damn effective.
 
-### 5/7 AP Pistol ![5/7 AP Pistol](images/safehouse_nightmare/57AP_FBI_Files.png)
+### 5/7 AP Pistol {{< image_inline "images/safehouse_nightmare/57AP_FBI_Files.png" "5/7 AP Pistol" >}}
 
 Like the parabellums, this has high concealment for crits and benefits from pistol skills. Whilst it is MUCH slower at killing dozers than the parabellums, THIS PISTOL CAN SHOOT THROUGH THE WALLS. Taking out anything from the other side of a wall will be slower but safer than facing them down head on.
 
-### HRL-7 Rocket Launcher ![HRL-7 Rocket Launcher](images/safehouse_nightmare/HRL-7_FBI_Files.png)
+### HRL-7 Rocket Launcher {{< image_inline "images/safehouse_nightmare/HRL-7_FBI_Files.png" "HRL-7 Rocket Launcher" >}}
 
 This will one shot the dozers with a direct hit, and will two shot them with indirect hits (catching them in the explosion).
 
-### Commando 101 Rocket Launcher ![Commando 101](images/safehouse_nightmare/Commando_101_FBI_Files.png)
+### Commando 101 Rocket Launcher {{< image_inline "images/safehouse_nightmare/Commando_101_FBI_Files.png" "Commando 101" >}}
 
 This will two shot dozers on direct and indirect hits.
 
-### Trip Mines ![Trip Mines](images/safehouse_nightmare/Tripmine-icon.png)
+### Trip Mines {{< image_inline "images/safehouse_nightmare/Tripmine-icon.png" "Trip Mines" >}}
 
 These will ALSO one shot dozers when buffed with Technician skill Combat Engineering Aced. Also useful in sensor mode for letting you know where all the enemies are, making it easier to take them out through walls.
 
