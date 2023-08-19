@@ -29,47 +29,47 @@ Maps are good. Here are some shitty maps from various games that don't warrent t
 
 ## Astral Chain
 
-![Astral Chain Map 1](images/other_game_maps/Astral_Chain_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Astral_Chain_Map1_Fullsize.jpg" "Astral Chain Map 1" >}}
 
 ## Dark Souls 3
 
-![Dark Souls 3 Map 1](images/other_game_maps/Dark_Souls_3_Map1_Fullsize.jpg)
-![Dark Souls 3 Map 2](images/other_game_maps/Dark_Souls_3_Map2_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Dark_Souls_3_Map1_Fullsize.jpg" "Dark Souls 3 Map 1" >}}
+{{< image_clickable "images/other_game_maps/Dark_Souls_3_Map2_Fullsize.jpg" "Dark Souls 3 Map 2" >}}
 
 ## FTL
 
-![FTL Map 1](images/other_game_maps/FTL_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/FTL_Map1_Fullsize.jpg" "FTL Map 1" >}}
 
 ## Grim Dawn
 
-![Grim Dawn Map 1](images/other_game_maps/Grim_Dawn_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Grim_Dawn_Map1_Fullsize.jpg" "Grim Dawn Map 1" >}}
 
 ## Heat Signature
 
-![Heat Signature Map 1](images/other_game_maps/Heat_Signature_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Heat_Signature_Map1_Fullsize.jpg" "Heat Signature Map 1" >}}
 
 ## Left 4 Dead 2
 
-![Left 4 Dead 2 Map 1](images/other_game_maps/Left4Dead2_Map1_Fullsize.jpg)
-![Left 4 Dead 2 Map 2](images/other_game_maps/Left4Dead2_Map2_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Left4Dead2_Map1_Fullsize.jpg" "Left 4 Dead 2 Map 1" >}}
+{{< image_clickable "images/other_game_maps/Left4Dead2_Map2_Fullsize.jpg" "Left 4 Dead 2 Map 2" >}}
 
 ## Mario Odyssey
 
-![Mario Odyssey Map 1](images/other_game_maps/Mario_Odyssey_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Mario_Odyssey_Map1_Fullsize.jpg" "Mario Odyssey Map 1" >}}
 
 ## Monaco
 
-![Monaco Map 1](images/other_game_maps/Monaco_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Monaco_Map1_Fullsize.jpg" "Monaco Map 1" >}}
 
 ## Pokemon Emerald
 
-![Pokemon Emerald Map 1](images/other_game_maps/Pokemon_Emerald_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Pokemon_Emerald_Map1_Fullsize.jpg" "Pokemon Emerald Map 1" >}}
 
 ## Sekiro
 
-![Sekiro Map 1](images/other_game_maps/Sekiro_Map1_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Sekiro_Map1_Fullsize.jpg" "Sekiro Map 1" >}}
 
 ## Skyward Sword
 
-![Skyward Sword Map 1](images/other_game_maps/Skyward_Sword_Map1_Fullsize.jpg)
-![Skyward Sword Map 2](images/other_game_maps/Skyward_Sword_Map2_Fullsize.jpg)
+{{< image_clickable "images/other_game_maps/Skyward_Sword_Map1_Fullsize.jpg" "Skyward Sword Map 1" >}}
+{{< image_clickable "images/other_game_maps/Skyward_Sword_Map2_Fullsize.jpg" "Skyward Sword Map 2" >}}

@@ -1,0 +1,3 @@
+{{ $asset := resources.Get (.Get 0) }}
+{{ $compressedImage := $asset.Resize "x250" }}
+<a href="{{ $asset.RelPermalink | safeURL }}"><img src = "{{ $compressedImage.RelPermalink | safeURL }}" alt = "{{ .Get 1 }}"/></a>

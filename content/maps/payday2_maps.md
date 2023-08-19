@@ -17,17 +17,17 @@ Maps are good. Here are some shitty maps of heists from Payday 2.
 
 ## Jewellery Store
 
-![Jewellery Store Map 1](images/payday2_maps/Jewellery_Store_1_Fullsize.jpg)
-![Jewellery Store Map 2](images/payday2_maps/Jewellery_Store_2_Fullsize.jpg)
+{{< image_clickable "images/payday2_maps/Jewellery_Store_1_Fullsize.jpg" "Jewellery Store Map 1" >}}
+{{< image_clickable "images/payday2_maps/Jewellery_Store_2_Fullsize.jpg" "Jewellery Store Map 2" >}}
 
 ## Car Shop
 
-![Car Shop Map 1](images/payday2_maps/Car_Shop_1_Fullsize.jpg)
+{{< image_clickable "images/payday2_maps/Car_Shop_1_Fullsize.jpg" "Car Shop Map 1" >}}
 
 ## Bank Heist
 
-![Bank Heist Map 1](images/payday2_maps/Bank_Heist_1_Fullsize.jpg)
+{{< image_clickable "images/payday2_maps/Bank_Heist_1_Fullsize.jpg" "Bank Heist Map 1" >}}
 
 ## Mallcrasher
 
-![Mallcrasher Map 1](images/payday2_maps/Mallcrasher_1_Fullsize.jpg)
+{{< image_clickable "images/payday2_maps/Mallcrasher_1_Fullsize.jpg" "Mallcrasher Map 1" >}}
