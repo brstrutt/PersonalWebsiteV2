@@ -1,0 +1,11 @@
+/* Set the overall tag cloud position/size */
+ul.TagCloud{
+    display: inline-block;
+    list-style: none;
+    padding: 0px;
+}
+  
+ul.TagCloud li{
+    display: inherit;
+    margin: 20px;
+}

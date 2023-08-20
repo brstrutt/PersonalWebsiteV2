@@ -1,0 +1,10 @@
+/* Setup a colour palette*/
+:root {
+    --color-palette-background1:#424242;
+    --color-palette-background2:#212121;
+    --color-palette-selected-background:#313131;
+    --color-palette-foreground:#D0D0D0;
+    --color-palette-highlight:#F0F0F0;
+    --color-palette-highlight2: #5ca8ff;
+    --color-palette-warning:#D0D000;
+}

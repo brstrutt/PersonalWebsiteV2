@@ -1,0 +1,61 @@
+:root {
+    --Footer-height:3em;
+}
+
+/* Set footer to bottom of screen and colours that match the rest of the site*/
+footer{
+    background-color: var(--color-palette-background2);
+    color: var(--color-palette-highlight);
+    border-top: 1px solid #7181A6;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: var(--NavBar-width);
+    height: var(--Footer-height);
+}
+
+/* Set the Post Dates to hang left */
+footer #PostDates{
+    display: inline-block;
+    max-width: 200px;
+}
+
+/* Set the Post Dates list to have no style (dont want bullets or numbers or anything) */
+footer #PostDates ul{
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Set the Post Tags to hang right */
+footer #PostTags{
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 0.5em;
+    float: right;
+    max-width: 70%;
+}
+
+/* Set the Post Tags list to be single line, comma separated*/
+footer #PostTags ul{
+    display: inline;
+    list-style: none;
+    padding: 0;
+}
+
+footer #PostTags ul li{
+    display: inline;
+}
+
+footer #PostTags ul li::after{
+    content: ", ";
+}
+
+footer #PostTags ul li:last-child::after{
+    content: "";
+}
+
+/* Setup default styling for page content. Also duck out of the way of the nav bar. */
+main{
+    padding: 20px 10% var(--Footer-height) 10%;
+}

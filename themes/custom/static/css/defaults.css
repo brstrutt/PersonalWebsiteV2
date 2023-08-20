@@ -1,0 +1,52 @@
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+/* Force the html element to fill the screen even if there's not enough content to warrant it */
+html{
+    height: 100%;
+}
+
+/* Set the default styling for the site as a whole */
+body{
+    background-color: var(--color-palette-background1);
+    font: 100% Helvetica;
+    color: var(--color-palette-foreground);
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+/* Make paragraphs align left by default */
+p{
+    text-align: left;
+}
+
+/* Setup default styling for page content.*/
+main{
+    overflow: auto;
+    text-align: center;
+    padding: 20px 10% 20px 10%;
+}
+
+/* Default list style within the page content */
+main ul{
+  text-align: left;
+  list-style: square;
+}
+
+/* Make all headers be the highlight colour by default */
+h1, h2, h3, h4, h5, h6{
+    color: var(--color-palette-highlight2);
+}
+
+/* Force subheaders in posts to the left */
+.post h2{
+    text-align: left;
+}
+
+/* Setup colour of tag hyperlinks */
+a, a:visited{
+    color: var(--color-palette-highlight2);
+}
