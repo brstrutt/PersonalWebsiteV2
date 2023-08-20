@@ -18,32 +18,21 @@ body{
     height: 100%;
 }
 
-/* Make paragraphs align left by default */
-p{
-    text-align: left;
-}
-
 /* Setup default styling for page content.*/
 main{
     overflow: auto;
-    text-align: center;
+    text-align: left;
     padding: 20px 10% 20px 10%;
 }
 
 /* Default list style within the page content */
 main ul{
-  text-align: left;
   list-style: square;
 }
 
 /* Make all headers be the highlight colour by default */
 h1, h2, h3, h4, h5, h6{
     color: var(--color-palette-highlight2);
-}
-
-/* Force subheaders in posts to the left */
-.post h2{
-    text-align: left;
 }
 
 /* Setup colour of tag hyperlinks */

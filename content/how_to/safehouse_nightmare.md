@@ -188,7 +188,7 @@ Here are a few PARTIAL builds. These are just pieces that you can put together t
 
 [This](https://pd2builder.netlify.app/?s=1Q0-910-9058000V00) build plus Leech. Take a rocket launcher and just blow things up. Sure you'll down your entire team, but you can inspire them back up again, and can even get YOURSELF back up if you need to! Swap uppers for Doctors Bags if you want to support your team more than yourself. OOh, or even BETTER have two people on the team, one with First Aid Kits and one with Doctors Bags. Then when you decide to be useful, ditch the explosives and drop the revenant skills. Then pick up some pistols instead.
 
-### Sources
+## Sources
 
 Here is where I link to verious data sources I used while researching this heist. Honestly, you'd probably be better off looking at them yourself than reading my ramblings. There might even be one or two well thought through builds in there!
 
