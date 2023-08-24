@@ -4,12 +4,12 @@ testing = "hello"
 
 [[socials]]
   link = "https://github.com/brstrutt"
-  icon = "icons/GitHub-Mark-Light-64px.png"
+  icon = "/icons/GitHub-Mark-Light-64px.png"
   title = "Github"
   alt = "Github Logo"
 
 [[socials]]
   link = "https://www.linkedin.com/in/ben-strutt-09b9a280/"
-  icon = "icons/LI-In-Bug-Modified.png"
+  icon = "/icons/LI-In-Bug-Modified.png"
   title = "LinkedIn"
   alt = "LinkedIn Logo(Slightly Modified)"
