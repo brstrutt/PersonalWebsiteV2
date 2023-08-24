@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heist Maps on 0800 BEN</title>
+    <link>http://0800ben.com/tags/heist-maps/</link>
+    <description>Recent content in Heist Maps on 0800 BEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://0800ben.com/tags/heist-maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Payday 2 Maps</title>
+      <link>http://0800ben.com/maps/payday2_maps/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0800ben.com/maps/payday2_maps/</guid>
+      <description>Maps are good. Here are some shitty maps of heists from Payday 2.
+Jewellery Store Car Shop Bank Heist Mallcrasher </description>
+    </item>
+    
+  </channel>
+</rss>

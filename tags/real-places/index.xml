@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real Places on 0800 BEN</title>
+    <link>http://0800ben.com/tags/real-places/</link>
+    <description>Recent content in Real Places on 0800 BEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://0800ben.com/tags/real-places/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random Maps</title>
+      <link>http://0800ben.com/maps/random_maps/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0800ben.com/maps/random_maps/</guid>
+      <description>Maps are good. Here are some shitty maps that came from m&amp;rsquo;brain.
+Dalhgren Stylised Map Random Maps Real Places Tests/Experiments Damn Puzzle Tiles </description>
+    </item>
+    
+  </channel>
+</rss>

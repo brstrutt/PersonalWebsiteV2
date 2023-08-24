@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Jam on 0800 BEN</title>
+    <link>http://0800ben.com/tags/game-jam/</link>
+    <description>Recent content in Game Jam on 0800 BEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://0800ben.com/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roll of the die</title>
+      <link>http://0800ben.com/projects/roll_of_the_die/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://0800ben.com/projects/roll_of_the_die/</guid>
+      <description>Roll the DieThis is a game produced during GMTK Game Jam 2022 as an excuse to mess around with building web games using Rust.
+To play the game simply click it below and use the Arrow Keys!
+playable embedded version currently down for maintenance How was this built?After stumbling around in the dark for a few hours I found out about a small game engine for Rust called Bevy. The main selling point for me was Bevy&amp;rsquo;s ability to build for a WASM target natively.</description>
+    </item>
+    
+  </channel>
+</rss>
