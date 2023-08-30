@@ -1,2 +1,2 @@
-{{ $asset := resources.Get (.Get 0) }}
-<iframe style="width: 1298px; height: 740px" src="{{ $asset.RelPermalink | safeURL }}"></iframe>
+{{ $asset := .Get 0 }}
+<iframe style="width: 1298px; height: 740px" src="{{ $asset }}"></iframe>

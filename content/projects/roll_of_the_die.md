@@ -16,9 +16,7 @@ This is a game produced during GMTK Game Jam 2022 as an excuse to mess around wi
 
 To play the game simply click it below and use the Arrow Keys!
 
-### **playable embedded version currently down for maintenance**
-
-[comment]: {{< iframe "html/roll_of_the_die_game.html" >}}
+{{< iframe "https://brstrutt.github.io/Roll-of-the-Die/" >}}
 
 ## How was this built?
 
