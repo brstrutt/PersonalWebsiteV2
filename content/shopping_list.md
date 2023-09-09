@@ -15,3 +15,5 @@ lastmod: 2023-09-03
 - Kickstand for Bike
 - Bag Rack for Bike
 - Inflation Sack for blowing up sleeping mats
+- Lego pieces custom ordered for some custom lego minibuild instructions I have
+- reusable mylar emergency blanket
