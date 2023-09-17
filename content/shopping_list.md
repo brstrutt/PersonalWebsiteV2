@@ -18,3 +18,4 @@ lastmod: 2023-09-03
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - DisplayPort to HDMI cable/converter
 - travel towel? Maybe something like [this](https://www.amazon.co.uk/Little-Bodhi-Microfiber-packtowl-microfibre/dp/B01MQUD23X)?
+- reflective strips for cycling at night
