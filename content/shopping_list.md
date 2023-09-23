@@ -13,7 +13,6 @@ lastmod: 2023-09-03
 - [Tunic special edition on switch](https://www.fangamer.com/products/tunic-deluxe-edition-game-nintendo-switch)
 - picture frames for posters (42x60cm, 40x55cm, 50x70cm)
 - Bag Rack for Bike
-- Inflation Sack for blowing up sleeping mats
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
-- DisplayPort to HDMI cable/converter
 - reflective strips for cycling at night
+- [redgrass games everlasting wet palette hydration paper sheets](https://www.amazon.co.uk/Redgrassgames-Hydration-Everlasting-Palette-Painter/dp/B07B6B7VCH)
