@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2023-09-03
+lastmod: 2023-10-04
 ---
 
 ## Warhammer
@@ -12,6 +12,7 @@ lastmod: 2023-09-03
 
 ## Bike
 - Bag Rack for Bike
+- mudguards
 - Folding bike pedals
 - Allen bolt to replace quick release bolt on bike seat post
 
