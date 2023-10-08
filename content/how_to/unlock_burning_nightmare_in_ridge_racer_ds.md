@@ -1,7 +1,7 @@
 ---
 title: "Unlock_burning_nightmare_in_ridge_racer_ds"
-date: 2023-10-08T10:36:13Z
-lastmod: 2023-10-08T10:36:13Z
+date: 2023-10-08
+lastmod: 2023-10-08
 tags:
 - Video Games
 - Ridge Racer DS

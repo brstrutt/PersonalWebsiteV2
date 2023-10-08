@@ -2,6 +2,7 @@
     <div id="PostDates">
         <ul>
             <li>Created: {{ page.Date | time.Format "2006-01-02" }}</li>
+            <li>Updated: {{ page.Lastmod | time.Format "2006-01-02" }}</li>
         </ul>
     </div>
     <div id="PostTags">

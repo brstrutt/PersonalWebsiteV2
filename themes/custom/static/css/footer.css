@@ -4,6 +4,8 @@
 
 /* Set footer to bottom of screen and colours that match the rest of the site*/
 footer{
+    display: flex;
+    align-items: center;
     background-color: var(--color-palette-background2);
     color: var(--color-palette-highlight);
     border-top: 1px solid #7181A6;
@@ -25,14 +27,14 @@ footer #PostDates ul{
     list-style: none;
     padding-left: 10px;
     padding-right: 10px;
+    margin: 0px;
 }
 
 /* Set the Post Tags to hang right */
 footer #PostTags{
     display: inline-block;
     margin-right: 15px;
-    margin-top: 0.5em;
-    float: right;
+    margin-left: auto;
     max-width: 70%;
 }
 
