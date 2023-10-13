@@ -28,5 +28,6 @@ lastmod: 2023-10-08
 - picture frames for posters (42x60cm, 40x55cm, 50x70cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - Book about knots?
+- Varying lengths of paracord, from short to long and thick to thin?
 - Small baking trays
 - cooling rack
