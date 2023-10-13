@@ -1,7 +1,7 @@
 ---
-title: "Unlock_burning_nightmare_in_ridge_racer_ds"
+title: "Unlock Burning Nightmare in Ridge Racer DS"
 date: 2023-10-08
-lastmod: 2023-10-08
+lastmod: 2023-10-13
 tags:
 - Video Games
 - Ridge Racer DS
@@ -68,8 +68,18 @@ Unfortunately this car's acceleration and handling aren't that good. They'll do 
 
 So here's the situation. As I am writing this I have not yet unlocked Burning Nightmare. I am working on it. My strategy is simple, but time consuming.
 
-I am playing this race in time attack mode with infinite laps. I am doing this until I can consistently complete this circuit without crashing.
+I am playing this race in time attack mode with infinite laps. I am doing this until I can consistently complete this circuit without crashing. I recommend picking one corner and just focusing on how to do that without crashing. Then once you have that corner down pick another one and repeat. Do this until you can take any corner without crashing.
+
+Another handy tip is to think about which lane your car is in on the approach to the corner. Different corners will be easier in one lane than another.
 
 This strategy is progressing nicely. After probably around 300 or 400 times around the track I can get a sub 0m:29s lap roughly once in every six laps. My fastest recorded 6 lap time is 3m:03s.
 
 Hopefully a little more practice and I should be able to get to 2m:53s. Maybe even faster as I did manage a sub 0m:28s lap once. If I can get that consistent I should FINALLY BE ABLE TO PUT THIS BEHIND ME.
+
+## Results
+
+It Worked! It took like 15 hours of practice total but it worked!
+
+{{< image_clickable "images/unlock_burning_nightmare_in_ridge_racer_ds/victory_showing_car.jpg" "Proof picture" >}}
+
+The final time was 2m:52s.900ms. I'm just glad I can confirm this race IS POSSIBLE.
