@@ -56,7 +56,7 @@ For all the lategame races my car of choice for is either Atomic Purple or Dk Te
 ![Atomic Purple](images/unlock_burning_nightmare_in_ridge_racer_ds/atomic_purple.png)
 ![DK Team Racing Purple](images/unlock_burning_nightmare_in_ridge_racer_ds/dk_team_racing.png)
 
-They look pretty, have decent handling, good acceleration, all around sloid cars.
+They look pretty, have decent handling, good acceleration, all around solid cars.
 
 They are not fast enough.
 
