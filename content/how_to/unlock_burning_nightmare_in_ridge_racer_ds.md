@@ -82,4 +82,6 @@ It Worked! It took like 15 hours of practice total but it worked!
 
 {{< image_clickable "images/unlock_burning_nightmare_in_ridge_racer_ds/victory_showing_car.jpg" "Proof picture" >}}
 
-The final time was 2m:52s.900ms. I'm just glad I can confirm this race IS POSSIBLE.
+The final time was 2m:52s.900ms. This is hands down the fastest time I have achieved. My best in time attack is 2:56, with an average of 2:58.
+
+I'm just glad I can confirm this race IS POSSIBLE. Now I just gotta do the last two races. They couldn't POSSIBLY be as bad as this one was...right>
