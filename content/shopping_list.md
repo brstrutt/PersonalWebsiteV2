@@ -17,15 +17,19 @@ lastmod: 2023-10-08
 - Folding bike pedals
 - Allen bolt to replace quick release bolt on bike seat post
 
+## Books
+
+- Fireborn - David Dalglish
+- The Well of Ascension - Brandon Sanderson
+- Book about knots?
+
 ## Misc
 
 - [Pixel Logic - A Guide To Pixel Art](https://michafrar.gumroad.com/l/pixel-logic)
 - Lock Picks
 - Locks
-- Fireborn - David Dalglish
 - [Tunic special edition on switch](https://www.fangamer.com/products/tunic-deluxe-edition-game-nintendo-switch)
 - picture frames for posters (42x60cm, 40x55cm, 50x70cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
-- Book about knots?
 - Small baking trays
 - cooling rack
