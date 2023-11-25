@@ -6,7 +6,8 @@ lastmod: 2023-10-08
 
 ## Warhammer
 
-- [Necron Index Cards](https://www.games-workshop.com/en-GB/index-cards-necrons-2023-eng) (maybe wait a few months for when the codex comes out, in case they end up tweaking some of the cards.)
+- [New Necron Index Cards](https://www.warhammer.com/en-GB/shop/datasheet-cards-necrons-eng-2023)
+- [New necron Codex](https://www.warhammer.com/en-GB/shop/codex-necrons-hb-eng-2023)
 - [Chapter Approved: Leviathan Mission Deck](https://www.games-workshop.com/en-GB/chapter-approved-leviathan-mission-deck-2023-eng)
 - [Mexicron Senor conversion kit](https://www.etsy.com/uk/listing/887823884/mexicron-senor-conversion-kits-buenos)
 
