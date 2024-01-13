@@ -11,11 +11,18 @@ lastmod: 2023-10-08
 
 ## Bike
 
-- Bag Rack for Bike
+- Something to store bike parts/tools in (small screws, old brake pads, allen keys, etc)
 - Folding bike pedals
 - Allen bolt to replace quick release bolt on bike seat post
+- Bag Rack for Bike
 
 ## Books
+
+- The Legends of the First Empire Series: Michael J Sullivan
+  - Age of War
+  - Age of Legend
+  - Age of Death
+  - Age of Empyre
 
 ## Misc
 
@@ -26,3 +33,4 @@ lastmod: 2023-10-08
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - Small baking trays
+- Display case for models/lego
