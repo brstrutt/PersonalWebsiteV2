@@ -26,7 +26,6 @@ lastmod: 2023-10-08
 
 ## Misc
 
-- [Pixel Logic - A Guide To Pixel Art](https://michafrar.gumroad.com/l/pixel-logic)
 - Lock Picks
 - Locks
 - [Tunic special edition on switch](https://www.fangamer.com/products/tunic-deluxe-edition-game-nintendo-switch)
