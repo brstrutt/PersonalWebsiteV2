@@ -19,17 +19,13 @@ lastmod: 2023-10-08
 ## Books
 
 - The Legends of the First Empire Series: Michael J Sullivan
-  - Age of War
   - Age of Legend
   - Age of Death
   - Age of Empyre
 
 ## Misc
 
-- Lock Picks
-- Locks
 - [Tunic special edition on switch](https://www.fangamer.com/products/tunic-deluxe-edition-game-nintendo-switch)
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
-- Small baking trays
 - Display case for models/lego
