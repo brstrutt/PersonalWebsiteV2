@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2023-10-08
+lastmod: 2024-03-27
 ---
 
 ## Warhammer
@@ -25,7 +25,8 @@ lastmod: 2023-10-08
 
 ## Misc
 
-- [Tunic special edition on switch](https://www.fangamer.com/products/tunic-deluxe-edition-game-nintendo-switch)
+- [Tunic hardcover instruction book](https://www.fangamer.com/collections/tunic/products/tunic-hardcover-manual) (also check fangamer eu for lower shipping costs)
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - Display case for models/lego
+- Set of scales for weighing people
