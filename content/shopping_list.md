@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-05-01
+lastmod: 2024-05-02
 ---
 
 ## House
@@ -19,6 +19,10 @@ lastmod: 2024-05-01
     - I dunno like 2 or 3. Kitchen needs shelves
 - Fire alarm
 - Carbon Monoxide Alarm
+- Shower Head
+- New loo roll holder
+- cap for the shower extension of the bath taps?
+- Some tool to help me unscrew the shower extension on the bath
 
 ## Expensive House
 
