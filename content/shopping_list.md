@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-05-02
+lastmod: 2024-05-19
 ---
 
 ## House
@@ -19,25 +19,27 @@ lastmod: 2024-05-02
     - I dunno like 2 or 3. Kitchen needs shelves
 - Fire alarm
 - Carbon Monoxide Alarm
-- Shower Head
 - New loo roll holder
 - cap for the shower extension of the bath taps?
 - Some tool to help me unscrew the shower extension on the bath
+- picture hooks
 
 ## Expensive House
 
 - New windows
 - New curtains + curtain rail
 - New shower
-- New fridge
 - Total replacement kitchen cabinets
 - Externally vented Cooker Hood
 - Moisture Activated Extractor Fan for bathroom
+- Dyson vacuum wall mounted chargeable vacuum
+- Push mower
 
 ## Warhammer
 
-- [New Necron Index Cards](https://www.warhammer.com/en-GB/shop/datasheet-cards-necrons-eng-2023)
 - [Mexicron Senor conversion kit](https://www.etsy.com/uk/listing/887823884/mexicron-senor-conversion-kits-buenos)
+- Necromunda Delaque Gang
+- Necromunda Delaque Nacht-ghul, psy-gheists and piscean spektor
 
 ## Bike
 
@@ -58,5 +60,4 @@ lastmod: 2024-05-02
 - [Tunic hardcover instruction book](https://www.fangamer.com/collections/tunic/products/tunic-hardcover-manual) (also check fangamer eu for lower shipping costs)
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
-- Display case for models/lego
-- Set of scales for weighing people
+- Display case/shelves for models/lego (probably another full size bookshelf plus acrylic display cases to keep dust out)
