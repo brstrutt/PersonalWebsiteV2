@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-05-19
+lastmod: 2024-06-03
 ---
 
 ## House
@@ -22,7 +22,15 @@ lastmod: 2024-05-19
 - cap for the shower extension of the bath taps?
 - Some tool to help me unscrew the shower extension on the bath
 - picture hooks
-- wardrobe rail (approx 90cm long cylinder)
+
+## Tools
+
+- Dyson vacuum wall mounted chargeable vacuum
+- High quality handheld drill (for drilling into twalls/breeze blocks)
+- Handheld thing that detects wire inside the walls
+- Gardening gloves and shears/clippers
+- box for storing gardening/bike tools in the shed and protecting them from the elements
+- Push mower
 
 ## Expensive House
 
@@ -32,8 +40,6 @@ lastmod: 2024-05-19
 - Total replacement kitchen cabinets
 - Externally vented Cooker Hood
 - Moisture Activated Extractor Fan for bathroom
-- Dyson vacuum wall mounted chargeable vacuum
-- Push mower
 
 ## Warhammer
 
