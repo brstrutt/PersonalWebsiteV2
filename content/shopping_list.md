@@ -19,10 +19,10 @@ lastmod: 2024-05-19
     - I dunno like 2 or 3. Kitchen needs shelves
 - Fire alarm
 - Carbon Monoxide Alarm
-- New loo roll holder
 - cap for the shower extension of the bath taps?
 - Some tool to help me unscrew the shower extension on the bath
 - picture hooks
+- wardrobe rail (approx 90cm long cylinder)
 
 ## Expensive House
 
