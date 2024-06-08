@@ -62,6 +62,7 @@ lastmod: 2024-06-08
 
 ## Misc
 
+- 3D Printer [Prusa Mini+ kit](https://www.prusa3d.com/product/original-prusa-mini-kit-2/)
 - [Tunic hardcover instruction book](https://www.fangamer.com/collections/tunic/products/tunic-hardcover-manual) (also check fangamer eu for lower shipping costs)
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
