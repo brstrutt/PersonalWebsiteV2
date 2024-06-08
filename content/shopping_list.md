@@ -1,22 +1,21 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-06-03
+lastmod: 2024-06-08
 ---
 
 ## House
 
 - Hinges for cabinets
-- Grommets for electricity Backboxes
+- Grommets for electricity Backboxes?
 - Office chair carpet protector (1m X 1m ish)
 - Shelves
   - Hallway
     - 1 for router
     - 1 by stairs
-  - Bathroom
-    - 1 for storage
   - Kitchen
     - I dunno like 2 or 3. Kitchen needs shelves
+- coat hooks to put by the door
 - Fire alarm
 - Carbon Monoxide Alarm
 - cap for the shower extension of the bath taps?
@@ -67,3 +66,4 @@ lastmod: 2024-06-03
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - Display case/shelves for models/lego (probably another full size bookshelf plus acrylic display cases to keep dust out)
+- Trousers
