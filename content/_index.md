@@ -1,6 +1,7 @@
 ---
 title: "Home"
 date: 2023-08-08T19:32:46Z
+lastmod: 2024-06-16
 ---
 
 ## Where Am I?
@@ -14,4 +15,4 @@ I am Ben. Howdy!
 
 ## WHAT YEAR IS IT?
 
-2023 I guess. Year of the Rabbit now?
+2024 Year of the...Dragon? Neat. Cool animal.
