@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-06-08
+lastmod: 2024-06-23
 ---
 
 ## House
@@ -27,31 +27,22 @@ lastmod: 2024-06-08
 - Dyson vacuum wall mounted chargeable vacuum
 - High quality handheld drill (for drilling into twalls/breeze blocks)
 - Handheld thing that detects wire inside the walls
-- Gardening gloves and shears/clippers
+- Gardening:
+  - gloves
+  - shears/clippers
+  - other general weeding tools
+  - maybe a rake
 - box for storing gardening/bike tools in the shed and protecting them from the elements
 - Push mower
 
 ## Expensive House
 
 - New windows
-- New curtains + curtain rail
+- New curtains + curtain rails
 - New shower
 - Total replacement kitchen cabinets
 - Externally vented Cooker Hood
 - Moisture Activated Extractor Fan for bathroom
-
-## Warhammer
-
-- [Mexicron Senor conversion kit](https://www.etsy.com/uk/listing/887823884/mexicron-senor-conversion-kits-buenos)
-- Necromunda Delaque Gang
-- Necromunda Delaque Nacht-ghul, psy-gheists and piscean spektor
-
-## Bike
-
-- Something to store bike parts/tools in (small screws, old brake pads, allen keys, etc)
-- Folding bike pedals
-- Allen bolt to replace quick release bolt on bike seat post
-- Bag Rack for Bike
 
 ## Books
 
@@ -60,6 +51,13 @@ lastmod: 2024-06-08
   - Age of Death
   - Age of Empyre
 
+## Bike
+
+- Something to store bike parts/tools in (small screws, old brake pads, allen keys, etc)
+- Folding bike pedals
+- Allen bolt to replace quick release bolt on bike seat post
+- Bag Rack for Bike
+
 ## Misc
 
 - 3D Printer [Prusa Mini+ kit](https://www.prusa3d.com/product/original-prusa-mini-kit-2/)
@@ -67,4 +65,3 @@ lastmod: 2024-06-08
 - picture frames for posters (42x60cm, 40x55cm)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - Display case/shelves for models/lego (probably another full size bookshelf plus acrylic display cases to keep dust out)
-- Trousers
