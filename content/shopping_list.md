@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-06-23
+lastmod: 2024-07-01
 ---
 
 ## House
@@ -25,7 +25,8 @@ lastmod: 2024-06-23
 ## Tools
 
 - Dyson vacuum wall mounted chargeable vacuum
-- High quality handheld drill (for drilling into twalls/breeze blocks)
+- High quality handheld drill (for drilling into wood/brick)
+- Spirit level
 - Handheld thing that detects wire inside the walls
 - Gardening:
   - gloves
