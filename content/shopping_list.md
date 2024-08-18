@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-07-21
+lastmod: 2024-08-18
 ---
 
 ## House
@@ -15,19 +15,16 @@ lastmod: 2024-07-21
     - 1 by stairs
   - Kitchen
     - I dunno like 2 or 3. Kitchen needs shelves
-- coat hooks to put by the door
 - Carbon Monoxide Alarm
 - cap for the shower extension of the bath taps?
 - Some tool to help me unscrew the shower extension on the bath
-- picture hooks
 
 ## Tools
 
 - Dyson vacuum wall mounted chargeable vacuum
 - High quality handheld drill (for drilling into wood/brick)
-- Handheld thing that detects wire inside the walls
 - Gardening:
-  - other general weeding tools
+  - general weeding tools
   - maybe a rake
 - box for storing gardening/bike tools in the shed and protecting them from the elements
 - Push mower
@@ -50,7 +47,7 @@ lastmod: 2024-07-21
 
 ## Misc
 
+- Display case/shelves for models/lego (probably another full size bookshelf plus acrylic display cases to keep dust out)
 - 3D Printer [Prusa Mini+ kit](https://www.prusa3d.com/product/original-prusa-mini-kit-2/)
 - [Tunic hardcover instruction book](https://www.fangamer.com/collections/tunic/products/tunic-hardcover-manual) (also check fangamer eu for lower shipping costs)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
-- Display case/shelves for models/lego (probably another full size bookshelf plus acrylic display cases to keep dust out)
