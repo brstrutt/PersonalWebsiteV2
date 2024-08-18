@@ -1,5 +1,10 @@
 baseURL = 'http://0800ben.com/'
 languageCode = 'en-gb'
 title = '0800 BEN'
-theme = 'custom'
+theme = ['custom', 'reveal-hugo']
 sectionPagesMenu = 'main'
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
