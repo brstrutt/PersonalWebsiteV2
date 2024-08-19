@@ -4,6 +4,9 @@ title = '0800 BEN'
 theme = ['custom', 'reveal-hugo']
 sectionPagesMenu = 'main'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"
