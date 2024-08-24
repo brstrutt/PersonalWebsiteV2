@@ -7,7 +7,7 @@ outputs: "Reveal"
 
 ## Cyclops from X-Men has two GLARING flaws
 
-- {{% fragment %}}His eyes{{% /fragment %}}
+- {{% fragment class='display-block' %}}His eyes{{% /fragment %}}
 
 - {{% fragment %}}His name{{% /fragment %}}
 
@@ -15,14 +15,14 @@ outputs: "Reveal"
 
 ### His eyes
 
-They constantly laser.{{< image_inline "images/powerpoint_my_ass/cyclops_lasering.jpg" >}}
+They constantly laser.{{< image_inline "images/the_rants/cyclops_lasering.jpg" >}}
 
-{{% heavy_fragment %}} The laser gets blocked by: {{% /heavy_fragment %}}
+{{% fragment %}} The laser gets blocked by: {{% /fragment %}}
 
-{{% heavy_fragment %}} red tinted glass {{% /heavy_fragment %}}
-{{% heavy_fragment %}} his eyelids {{% /heavy_fragment %}}
+{{% fragment %}} red tinted glass {{% /fragment %}}
+{{% fragment %}} his eyelids {{% /fragment %}}
 
-{{% heavy_fragment %}} He wears a red tinted visor he can slide out of the way when he wants to zap something. {{% /heavy_fragment %}}
+{{% fragment %}} He wears a red tinted visor he can slide out of the way when he wants to zap something. {{% /fragment %}}
 
 ---
 
