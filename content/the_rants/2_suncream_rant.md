@@ -7,20 +7,46 @@ outputs: "Reveal"
 
 ## Suncream is a scam
 
-It's sticky, you need to re-apply it CONSTANTLY
+---
 
-APPARENTLY NOBODY USES ENOUGH OF IT OR REAPPLIES IT OFTEN ENOUGH ALREADY
+{{< slide background="#CA8" >}}
 
-It's a consumable you have to constantly buy more of.
+## The downsides
 
-How much goddamn plastic waste out there is just suncream bottles.
+It's sticky
 
-Just wear big clothes!
+You need to re-apply it every hour
 
-Reusable
+You need to put on even more than you already do (statistically)
 
-Don't need to constantly re-apply
+You need to KEEP BUYING IT because it RUNS OUT
 
-Not sticky
+Which also means you're constantly throwing away plastic packaging
 
-It's worked for fucking millenia we don't need a subscription to SPF-cum
+---
+
+{{< slide background="#CA8" >}}
+
+## The solution
+
+---
+
+{{< slide background="#CA8" >}}
+
+## BIG CLOTHES
+
+---
+
+{{< slide background="#CA8" >}}
+
+You buy them ONCE
+
+You just...wear them
+
+No re-applying
+
+No "you didn't put on enough"
+
+No STICKY
+
+It's worked for fucking millenia we don't need a summer subscription to SPF-cum

@@ -7,50 +7,82 @@ outputs: "Reveal"
 
 ## Cyclops from X-Men has two GLARING flaws
 
-- {{% fragment class='display-block' %}}His eyes{{% /fragment %}}
+---
 
-- {{% fragment %}}His name{{% /fragment %}}
+{{< slide background="#123" >}}
+
+## Background
+
+Cyclops is the laser eye man from XMEN
+
+His eyes are always shooting lasers
+
+He can't turn them off, only block them
+
+His eyelids block them
+
+So do his red glasses
 
 ---
 
-### His eyes
+{{< slide background="#123" >}}
 
-They constantly laser.{{< image_inline "images/the_rants/cyclops_lasering.jpg" >}}
+## His visor
 
-{{% fragment %}} The laser gets blocked by: {{% /fragment %}}
+His costume includes a visor that let him block/unblock the laserbeams
 
-{{% fragment %}} red tinted glass {{% /fragment %}}
-{{% fragment %}} his eyelids {{% /fragment %}}
-
-{{% fragment %}} He wears a red tinted visor he can slide out of the way when he wants to zap something. {{% /fragment %}}
+He can block/unblock the lasers using a lever on the side of the visor
 
 ---
 
-#### The Problem
+{{< slide background="#123" >}}
 
-He has to TOUCH his FACE to LASERBEAM?
+## The problem
 
-What is this the stoneage?
+The guy with LASER EYES becomes USELESS if his HANDS ARE BUSY
 
-This is ALWAYS a problem. Every bloody scene the bad guys trap his hand and he's suddenly completely useless.
+Is this the STONEAGE?
 
----
+You defeat this guy with HANDCUFFS!
+Rope!
 
-#### The Solution
-
-Give the guy a fucking red monacle, so he can see.
-
-Then he can just OPEN AND CLOSE HIS OTHER EYE.
-
-HANDS FREE.
-
-SO EASY.
-
-JUST DO IT.
+Ask him to carry your bags and he's DEFENCELESS
 
 ---
 
-### His Name
+{{< slide background="#123" >}}
+
+## The Solution
+
+He needs a hands-free way to turn the laser on and off
+
+Some magic way to block/unblock the beams without needing to touch his face
+
+Something like....
+
+---
+
+{{< slide background="#123" >}}
+
+### HIS FUCKING EYELIDS
+
+---
+
+Give him a red monocle so he can use one eye to see his way around
+
+Then if he ever needs a laserbeam he can just OPEN HIS OTHER EYE
+
+HANDS FREE
+
+SO EASY
+
+JUST DO IT
+
+---
+
+{{< slide background="#321" >}}
+
+### I also hate his name
 
 His name is Cyclops
 
