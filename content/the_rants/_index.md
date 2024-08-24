@@ -15,7 +15,7 @@ tags:
 - cyclops
 ---
 
-{{< slide background-image="/images/powerpoint_my_ass/convention_preface.jpg" transition="slide" background-transition="slide" >}}
+{{< slide background-image="/images/the_rants/convention_preface.jpg" transition="slide" background-transition="slide" >}}
 
 ---
 
@@ -23,9 +23,9 @@ tags:
 
 ## The 5 Treatises of Bemmanuel Rant
 
-{{% heavy_fragment %}}(its a funny joke I swear){{% /heavy_fragment %}}
+{{% fragment class=display-block %}}(its a funny joke I swear){{% /fragment %}}
 
-{{% heavy_fragment %}}(please hold dissent until the end){{% /heavy_fragment %}}
+{{% fragment class=display-block %}}(please hold dissent until the end){{% /fragment %}}
 
 {{% note %}}
     oh neat you can have notes. Press "S" to see them.
