@@ -97,7 +97,7 @@ or even better
 
 {{< slide background="#555" >}}
 
-goddamn 8 years olds learn division why the fuck are we CHOOSING to embed a goddamn special case that doesn't need to be there
+goddamn 8 year olds learn division why the fuck are we CHOOSING to embed a goddamn special case that doesn't need to be there
 
 Computers need to stop SHITTING THE BED just because you DARED divide one number by another number
 
