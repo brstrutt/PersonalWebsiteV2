@@ -16,7 +16,7 @@ tags:
 
 I recently picked up Ridge Racer DS again to see if I could actually finish it this time. After playing most of the way through the game I hit the same roadblock I hit 15 years ago...Burning Nightmare.
 
-![Burning Nightmare](images/unlock_burning_nightmare_in_ridge_racer_ds/burning_nightmare.png)
+![Burning Nightmare](burning_nightmare.png)
 
 This is the penultimate car you can unlock through the car attack mode, and it is SIGNIFICANTLY HARDER to unlock than ANY OTHER CAR YOU HAVE UNLOCKED SO FAR!
 All prior cars, whilst not pushovers, could be won by just picking your favourite car and trying a few times. No biggie.
@@ -53,8 +53,8 @@ From my own testing and watching the latter of the youtube videos it looks like 
 
 For all the lategame races my car of choice for is either Atomic Purple or Dk Team Racing.
 
-![Atomic Purple](images/unlock_burning_nightmare_in_ridge_racer_ds/atomic_purple.png)
-![DK Team Racing Purple](images/unlock_burning_nightmare_in_ridge_racer_ds/dk_team_racing.png)
+![Atomic Purple](atomic_purple.png)
+![DK Team Racing Purple](dk_team_racing.png)
 
 They look pretty, have decent handling, good acceleration, all around solid cars.
 
@@ -62,7 +62,7 @@ They are not fast enough.
 
 The only car fast enough to hit the times we need is Terrazi Terrific.
 
-![Terrazi Terrific](images/unlock_burning_nightmare_in_ridge_racer_ds/terrazi_terrific.png)
+![Terrazi Terrific](terrazi_terrific.png)
 
 Unfortunately this car's acceleration and handling aren't that good. They'll do the job, but it is a struggle.
 
@@ -80,7 +80,7 @@ Hopefully a little more practice and I should be able to get to 2m:53s. Maybe ev
 
 It Worked! It took like 15 hours of practice total but it worked!
 
-{{< image_clickable "images/unlock_burning_nightmare_in_ridge_racer_ds/victory_showing_car.jpg" "Proof picture" >}}
+{{< image_clickable "victory_showing_car.jpg" "Proof picture" >}}
 
 The final time was 2m:52s.900ms. This is hands down the fastest time I have achieved. My best in time attack is 2:56, with an average of 2:58.
 
