@@ -5,4 +5,4 @@ outputs: "Reveal"
 
 ## I lied there is no time for dissent
 
-{{% fragment %}}Thanks for listening to me rant{{% /fragment %}}
+{{% fragment %}}Thanks for listening{{% /fragment %}}
