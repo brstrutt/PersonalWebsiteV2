@@ -39,11 +39,23 @@ it technically isn't division."
 
 LOOK AT THIS FUCKING GRAPH THE ANSWER IS SO OBVIOUS
 
+---
+
+{{< slide background="#555" >}}
+
+![Divide by zero graph](divide_by_zero_graph.png)
+
+---
+
+{{< slide background="#555" >}}
+
+## The truth (cont)
+
 ```math
 x/0=INFINITY
 ```
 
-THERE! THE ANSWER! WASN'T THAT HARD WAS IT!
+{{% fragment %}}THERE! THE ANSWER! WASN'T THAT HARD WAS IT!{{% /fragment %}}
 
 ---
 
