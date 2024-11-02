@@ -11,6 +11,12 @@ outputs: "Reveal"
 
 {{< slide background="#123" >}}
 
+![Cyclops Lasering](cyclops_lasering.jpg)
+
+---
+
+{{< slide background="#123" >}}
+
 ## Background
 
 Cyclops is the laser eye man from XMEN
@@ -27,11 +33,23 @@ So do his red glasses
 
 {{< slide background="#123" >}}
 
+![Cyclops Sunglassing](cyclops_sunglassing.jpg)
+
+---
+
+{{< slide background="#123" >}}
+
 ## His visor
 
-His costume includes a visor that let him block/unblock the laserbeams
+His costume includes a visor that lets him block/unblock the laserbeams
 
 He can block/unblock the lasers using a lever on the side of the visor
+
+---
+
+{{< slide background="#123" >}}
+
+![Cyclops Lasering](cyclops_lasering.jpg)
 
 ---
 
@@ -68,6 +86,8 @@ Something like....
 
 ---
 
+{{< slide background="#123" >}}
+
 Give him a red monocle so he can use one eye to see his way around
 
 Then if he ever needs a laserbeam he can just OPEN HIS OTHER EYE
@@ -91,3 +111,9 @@ The man has TWO EYES
 I rest my case
 
 (just call him Gazerbeam like in the Incredibles that's such a damn good name)
+
+---
+
+{{< slide background="#321" >}}
+
+![Cyclops Sunglassing](cyclops_sunglassing.jpg)
