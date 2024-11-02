@@ -16,7 +16,11 @@ Here's the first slide
 
 ## Slide 2
 
-Oh look, a SECOND slide!
+{{% fragment %}}Oh look, a SECOND slide!{{% /fragment %}}
+
+{{% fragment %}}With FRAGMENTS{{% /fragment %}}
+
+{{% fragment %}}How lovely!{{% /fragment %}}
 
 ## Section 2
 
