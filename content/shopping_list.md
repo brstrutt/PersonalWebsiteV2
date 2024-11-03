@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2024-11-02
+lastmod: 2024-11-03
 ---
 
 ## House
@@ -39,6 +39,8 @@ lastmod: 2024-11-02
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
 - king size duvet cover
 - more towels
+- more file dividers for filing cabinet
+- cork/pin board (for pinning cross stitch to)
 - New PC monitors with DisplayPort input
 - DisplayPort cables
 - PC Monitor arm for holding two monitors
