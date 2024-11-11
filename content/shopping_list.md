@@ -45,4 +45,5 @@ lastmod: 2024-11-10
 - PC Monitor arm for holding two monitors
 - Duffel Bag for carrying more things than the rucksack (old large bag is falling apart)
 - Warm waterproof winter jacket
+- Simple beard trimmer (with decent battery life)
 - Lego pieces custom ordered for some custom lego minibuild instructions I have
