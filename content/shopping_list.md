@@ -6,11 +6,7 @@ lastmod: 2024-12-31
 
 ## House
 
-- Display case/shelves for models/lego (probably another full size bookshelf plus acrylic display cases to keep dust out)
-- cork/pin board (for pinning cross stitch to)
-- rope + pulleys to use indoors for drying clothes over the stairs
 - Hinges for cabinets
-- slidy flat things to replace the office chair wheels
 
 ## Tools
 
