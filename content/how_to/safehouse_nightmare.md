@@ -128,7 +128,7 @@ Useful in theory, in practice it's almost impossible to get their damage high en
 
 ### Melee
 
-You'd be forced to use Sociopath or Infiltrator perk decks, and then stand at point blank range for two seconds to take out a dozer. This does not an alive heister make.
+You'd be forced to use Sociopath or Infiltrator perk decks, and then stand at point blank range for two seconds to take out a dozer. In a normal mission you can take out a dozer in two hits fairly consistently, by relying on Bloodthirst basic to get 16x melee damage. This stacked with pumping Iron's 2x damage and Sociopath/Infiltrator's 10x can get even the Nova's shank up to 9600 damage per hit. This does not work in this mission specifically, because Bloodthirst requires you to kill 16 enemies WITHOUT melee in order to build up the buff. Since this mission doesn't HAVE any other enemies, this build just doesn't work.
 
 ### Flamethrowers
 
