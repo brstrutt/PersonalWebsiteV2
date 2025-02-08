@@ -4,10 +4,6 @@ date: 2023-08-13
 lastmod: 2024-12-31
 ---
 
-## House
-
-- Hinges for cabinets
-
 ## Tools
 
 - Dyson vacuum wall mounted chargeable vacuum
@@ -15,21 +11,18 @@ lastmod: 2024-12-31
 - Gardening:
   - general weeding tools
   - maybe a rake
-- Push mower
 
 ## Expensive House
 
 - Moisture Activated Extractor Fan for bathroom
-- Loft hatch with build in wooden ladder and handrail
+- New shower
 - New windows
 - New curtains + curtain rails
-- New shower
 - Total replacement kitchen cabinets
 - Externally vented Cooker Hood
 
 ## Misc
 
-- more file dividers for filing cabinet
 - New PC monitors with DisplayPort input
 - DisplayPort cables
 - PC Monitor arm for holding two monitors
