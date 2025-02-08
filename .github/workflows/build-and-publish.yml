@@ -14,10 +14,7 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-publish:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     concurrency: ci-${{github.ref}}
     steps:
@@ -32,15 +29,21 @@ jobs:
         - name: Build the site
           run: hugo
 
-        - name: Setup Pages
-          uses: actions/configure-pages@v3
-
         - name: Upload artifact
+          id: deployment
           uses: actions/upload-pages-artifact@v3
           with:
             # Upload the public directory
             path: './public'
-
-        - name: Deploy to GitHub Pages
-          id: deployment
-          uses: actions/deploy-pages@v2
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    concurrency: ci-${{github.ref}}
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      
