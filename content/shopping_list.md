@@ -6,7 +6,6 @@ lastmod: 2024-12-31
 
 ## Tools
 
-- Dyson vacuum wall mounted chargeable vacuum
 - High quality handheld drill (for drilling into wood/brick)
 - Gardening:
   - general weeding tools
