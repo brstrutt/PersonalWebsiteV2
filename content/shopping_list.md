@@ -11,18 +11,10 @@ lastmod: 2024-12-31
   - general weeding tools
   - maybe a rake
 
-## Expensive House
-
-- Moisture Activated Extractor Fan for bathroom
-- New shower
-- New windows
-- New curtains + curtain rails
-- Total replacement kitchen cabinets
-- Externally vented Cooker Hood
-
 ## Misc
 
+- Sound Core open-ear earbuds (AeroFit Pro [https://www.soundcore.com/uk/products/aerofit-pro-a3871g11?ref=open-ear-headphones](https://www.soundcore.com/uk/products/aerofit-pro-a3871g11?ref=open-ear-headphones))
+- LEGO ([Star Destroyer](https://www.lego.com/en-gb/product/executor-super-star-destroyer-75356))
 - New PC monitors with DisplayPort input
 - DisplayPort cables
 - PC Monitor arm for holding two monitors
-- Lego pieces custom ordered for some custom lego minibuild instructions I have
