@@ -15,7 +15,10 @@ lastmod: 2024-12-31
 
 - Sound Core open-ear earbuds (AeroFit Pro [https://www.soundcore.com/uk/products/aerofit-pro-a3871g11?ref=open-ear-headphones](https://www.soundcore.com/uk/products/aerofit-pro-a3871g11?ref=open-ear-headphones))
 - LEGO ([Star Destroyer](https://www.lego.com/en-gb/product/executor-super-star-destroyer-75356))
+- LEGO ([Droideka](https://www.lego.com/en-gb/product/droideka-75381))
+- LEGO ([Himeji Castle](https://www.lego.com/en-gb/product/himeji-castle-21060))
 - New PC monitor (27", 1440p, 144Hz, at least 1 DisplayPort input, maybe the [MSI G272QPF E2](https://www.amazon.co.uk/MSI-G272QPF-E2-Gaming-Monitor/dp/B0CPQ7D6QJ))
 - 3X DisplayPort cables
 - PC Monitor Arm ([Ergotron LX Pro Dual black](https://uk.insight.com/en_GB/shop/product/45-686-292/ergotron/45-686-292/Ergotron-LX-Pro-mounting-kit-modular-for-2-LCD-displays-sidebyside-black/))
 - Magnetic Cable Management Small and Medium arches ([https://global.lttstore.com/products/mcm-arches?variant=43417165955117](https://global.lttstore.com/products/mcm-arches?variant=43417165955117))
+- The Sunlit Man by Brandon Sanderson
