@@ -6,10 +6,10 @@ lastmod: 2024-12-31
 
 ## Computer
 
-- New PC monitor (27", 1440p, 144Hz, at least 1 DisplayPort input, maybe the [MSI G272QPF E2](https://www.amazon.co.uk/MSI-G272QPF-E2-Gaming-Monitor/dp/B0CPQ7D6QJ))
+- DisplayPort to HDMI cable
 - PC Monitor Arm ([Ergotron LX Pro Dual black](https://uk.insight.com/en_GB/shop/product/45-686-292/ergotron/45-686-292/Ergotron-LX-Pro-mounting-kit-modular-for-2-LCD-displays-sidebyside-black/))
 - Magnetic Cable Management Small and Medium arches ([https://global.lttstore.com/products/mcm-arches?variant=43417165955117](https://global.lttstore.com/products/mcm-arches?variant=43417165955117))
-- DisplayPort to HDMI cable
+- ~~New PC monitor (27", 1440p, 144Hz, at least 1 DisplayPort input, maybe the [MSI G272QPF E2](https://www.amazon.co.uk/MSI-G272QPF-E2-Gaming-Monitor/dp/B0CPQ7D6QJ))~~
 
 ## Camping
 
@@ -22,3 +22,8 @@ lastmod: 2024-12-31
 
 - LEGO ([Super Star Destroyer (with cute mini star destroyers next to it)](https://www.lego.com/en-gb/product/executor-super-star-destroyer-75356))
 - Shibuya Pixel Art Collection Book (202, 2021, 2022, 2023, 2024)
+- Brent Weeks - Night Angel Nemesis
+- SenLinYu - Alchemised
+- Crochet kit (axolotls maybe? [https://www.zepiany.com/collections/crochet-product/products/beginners-crochet-kit-2-adorable-axolotls-%F0%9F%A6%8E](https://www.zepiany.com/collections/crochet-product/products/beginners-crochet-kit-2-adorable-axolotls-%F0%9F%A6%8E))
+- A Gentle Rain (boardgame)
+- [Mountain Warehouse Field Extreme Men's Vibram Waterproof Walking Shoes](https://www.mountainwarehouse.com/p/022025/mw/field-extreme-mens-vibram-waterproof-walking-shoes/grey/) (Size 10, Grey)
