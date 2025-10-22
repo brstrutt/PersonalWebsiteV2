@@ -18,12 +18,18 @@ lastmod: 2024-12-31
   - [https://www.blacks.co.uk/15904941/oex-lightweight-aluminium-ground-pegs-set-of-6-15904941](https://www.blacks.co.uk/15904941/oex-lightweight-aluminium-ground-pegs-set-of-6-15904941)
 - Tent peg pusher ([https://www.etsy.com/uk/listing/1706919141/universal-tent-stake-pusher?ls=a&ref=sold_out_ad-1&plkey=870a16afb795f721080e11a861f19d7eb3d0e9f5%3A1706919141](https://www.etsy.com/uk/listing/1706919141/universal-tent-stake-pusher?ls=a&ref=sold_out_ad-1&plkey=870a16afb795f721080e11a861f19d7eb3d0e9f5%3A1706919141))
 
-## Misc
+## Books
 
-- LEGO ([Super Star Destroyer (with cute mini star destroyers next to it)](https://www.lego.com/en-gb/product/executor-super-star-destroyer-75356))
 - Shibuya Pixel Art Collection Book (202, 2021, 2022, 2023, 2024)
 - Brent Weeks - Night Angel Nemesis
 - SenLinYu - Alchemised
+- Michael J Sullivan:
+  - Drumindor
+  - The Rise and Fall series (books 1 -> 3 called Nolyn, Farilane, and Esrahaddon)
+
+## Misc
+
+- LEGO ([Super Star Destroyer (with cute mini star destroyers next to it)](https://www.lego.com/en-gb/product/executor-super-star-destroyer-75356))
 - Crochet kit (axolotls maybe? [https://www.zepiany.com/collections/crochet-product/products/beginners-crochet-kit-2-adorable-axolotls-%F0%9F%A6%8E](https://www.zepiany.com/collections/crochet-product/products/beginners-crochet-kit-2-adorable-axolotls-%F0%9F%A6%8E))
 - A Gentle Rain (boardgame)
 - [Mountain Warehouse Field Extreme Men's Vibram Waterproof Walking Shoes](https://www.mountainwarehouse.com/p/022025/mw/field-extreme-mens-vibram-waterproof-walking-shoes/grey/) (Size 10, Grey)
