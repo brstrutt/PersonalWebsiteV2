@@ -1,0 +1,6 @@
+{
+    "lpubsppop01.autoTimeStamp.birthTimeStart": "date *: ",
+    "lpubsppop01.autoTimeStamp.luxonFormat": "yyyy-LL-dd HH:mm:ss",
+    "lpubsppop01.autoTimeStamp.modifiedTimeStart": "lastmod *: ",
+    "lpubsppop01.autoTimeStamp.momentFormat": "YYYY-MM-DD HH:mm:ss"
+}
