@@ -1,8 +1,8 @@
 ---
-title: "This handy Contrast tip will make artists hate you"
+title: "Rust vs C++"
 menus: none
 date: 2025-11-16 14:44:34
-lastmod: 2025-11-16 15:14:08
+lastmod: 2025-11-16 18:26:21
 outputs: "Reveal"
 tags:
 - presentation
