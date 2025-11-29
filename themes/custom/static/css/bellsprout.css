@@ -1,0 +1,90 @@
+.bellsprout {
+    position: relative;
+    width: 32px;
+    height: 32px;
+}
+
+.bellsprout:after {
+    position: absolute;
+    content: "";
+    /* Size of a single pixel. Box-shadow matches these dimensions for each shadow */
+    width: 2px;
+    height: 2px;
+
+    /* Setup a colour palette to make life easier */
+    --black: #000000;
+    --yellow: #fbf236;
+    --darkYellow: #85974a;
+    --lightBrown: #8f563b;
+    --brown: #7a4736;
+    --darkBrown: #663931;
+    --lightGreen: #99e550;
+    --green: #6abe30;
+    --darkGreen: #4b692f;
+    --red: #d95763;
+    --darkRed: #45283c;
+    --shadow: #00000066;
+
+    /* Set the initial pixel all other pixels are relative to */
+    background: var(--yellow);
+    top: 2px;
+    left: 16px;
+
+    box-shadow:
+        2px 0px var(--yellow),
+        4px 0px var(--yellow),
+        -2px 2px var(--darkYellow),
+        0px 2px var(--yellow),
+        2px 2px var(--yellow),
+        4px 2px var(--yellow),
+        6px 2px var(--black),
+        -4px 4px var(--lightBrown),
+        0px 4px var(--darkYellow),
+        2px 4px var(--black),
+        4px 4px var(--yellow),
+        6px 4px var(--yellow),
+        -4px 6px var(--brown),
+        2px 6px var(--darkYellow),
+        4px 6px var(--yellow),
+        6px 6px var(--red),
+        8px 6px var(--red),
+        -10px 8px var(--lightGreen),
+        -8px 8px var(--green),
+        -4px 8px var(--darkBrown),
+        4px 8px var(--red),
+        6px 8px var(--darkRed),
+        -12px 10px var(--lightGreen),
+        -10px 10px var(--green),
+        -8px 10px var(--darkGreen),
+        -6px 10px var(--darkGreen),
+        -2px 10px var(--lightBrown),
+        0px 10px var(--green),
+        2px 10px var(--darkGreen),
+        4px 10px var(--lightGreen),
+        6px 10px var(--lightGreen),
+        -14px 12px var(--green),
+        -12px 12px var(--darkGreen),
+        -10px 12px var(--darkGreen),
+        -8px 12px var(--darkGreen),
+        -2px 12px var(--darkBrown),
+        2px 12px var(--darkGreen),
+        4px 12px var(--darkGreen),
+        6px 12px var(--lightGreen),
+        8px 12px var(--green),
+        0px 14px var(--lightBrown),
+        4px 14px var(--darkGreen),
+        6px 14px var(--green),
+        0px 16px var(--brown),
+        4px 16px var(--darkBrown),
+        6px 16px var(--brown),
+        -6px 18px var(--brown),
+        0px 18px var(--lightBrown),
+        2px 18px var(--darkBrown),
+        8px 18px var(--darkBrown),
+        -4px 20px var(--brown),
+        -2px 20px var(--lightBrown),
+        -4px 26px var(--shadow),
+        0px 26px var(--shadow),
+        2px 26px var(--shadow),
+        6px 26px var(--shadow)
+}
