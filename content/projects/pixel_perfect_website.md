@@ -1,7 +1,7 @@
 ---
 title: "Pixel Perfect Website"
 date: 2025-11-29 18:11:29
-lastmod: 2025-11-29 18:37:47
+lastmod: 2025-11-29 19:32:45
 tags:
 - Pixel Art
 - HTML
@@ -119,7 +119,7 @@ So far I've gone with the following approach:
 
 1. Create a CSS class that represents a single pixel on screen
 2. Add a box shadow to that class with multiple coloured shadows. Each shadow is a single pixel.
-3. Profit (by spending half an hour manually specifying individual pixels.....I should really automate this process if I want to keep doing this)
+3. Profit (by spending half an hour manually specifying individual pixels.....I should really automate this process if I want to keep doing this) **update:** You can use [https://pixelartcss.com](https://pixelartcss.com) to do this for you!
 4. (Bonus points) Make the main css class match the full size of the pixel art, then move the class you created above to the `:after` element. This means you can right click the pixel art to get to the correct element, and it forces other elements out of the way.
 
 The resulting css is an example css class you can just drop into a page to see a little pixel art of bellsprout:
