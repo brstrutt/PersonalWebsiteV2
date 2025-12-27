@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2025-11-01 20:48:24
+lastmod: 2025-12-27 17:04:22
 ---
 
 ## Computer
@@ -21,15 +21,11 @@ lastmod: 2025-11-01 20:48:24
 ## Books
 
 - Shibuya Pixel Art Collection Book (2020, 2021, 2022, 2023, 2024)
-- Brent Weeks - Night Angel Nemesis
-- SenLinYu - Alchemised
 - Michael J Sullivan:
   - Drumindor
   - The Rise and Fall series (books 1 -> 3 called Nolyn, Farilane, and Esrahaddon)
 
 ## Misc
 
-- LEGO ([Super Star Destroyer (with cute mini star destroyers next to it)](https://www.lego.com/en-gb/product/executor-super-star-destroyer-75356))
 - Crochet kit (axolotls maybe? [https://www.zepiany.com/collections/crochet-product/products/beginners-crochet-kit-2-adorable-axolotls-%F0%9F%A6%8E](https://www.zepiany.com/collections/crochet-product/products/beginners-crochet-kit-2-adorable-axolotls-%F0%9F%A6%8E))
 - A Gentle Rain (boardgame)
-- [Mountain Warehouse Field Extreme Men's Vibram Waterproof Walking Shoes](https://www.mountainwarehouse.com/p/022025/mw/field-extreme-mens-vibram-waterproof-walking-shoes/grey/) (Size 10, Grey)
