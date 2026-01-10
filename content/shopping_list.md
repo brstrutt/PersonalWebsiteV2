@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2025-12-27 17:04:22
+lastmod: 2026-01-10 19:57:02
 ---
 
 ## Computer
@@ -10,13 +10,6 @@ lastmod: 2025-12-27 17:04:22
 - Magnetic Cable Management Small and Medium arches ([https://global.lttstore.com/products/mcm-arches?variant=43417165955117](https://global.lttstore.com/products/mcm-arches?variant=43417165955117))
 - Wolfbox MF50 Air Duster ([https://uk.wolfbox.com/products/wolfbox-mf50-powerful-electric-air-duster](https://uk.wolfbox.com/products/wolfbox-mf50-powerful-electric-air-duster))
 - ~~New PC monitor (27", 1440p, 144Hz, at least 1 DisplayPort input, maybe the [MSI G272QPF E2](https://www.amazon.co.uk/MSI-G272QPF-E2-Gaming-Monitor/dp/B0CPQ7D6QJ))~~
-
-## Camping
-
-- Better tent pegs:
-  - [https://www.blacks.co.uk/15904944/oex-arrow-lightweight-aluminium-pegs-6-pack-15904944](https://www.blacks.co.uk/15904944/oex-arrow-lightweight-aluminium-pegs-6-pack-15904944)
-  - [https://www.blacks.co.uk/15904941/oex-lightweight-aluminium-ground-pegs-set-of-6-15904941](https://www.blacks.co.uk/15904941/oex-lightweight-aluminium-ground-pegs-set-of-6-15904941)
-- Tent peg pusher ([https://www.etsy.com/uk/listing/1706919141/universal-tent-stake-pusher?ls=a&ref=sold_out_ad-1&plkey=870a16afb795f721080e11a861f19d7eb3d0e9f5%3A1706919141](https://www.etsy.com/uk/listing/1706919141/universal-tent-stake-pusher?ls=a&ref=sold_out_ad-1&plkey=870a16afb795f721080e11a861f19d7eb3d0e9f5%3A1706919141))
 
 ## Books
 
