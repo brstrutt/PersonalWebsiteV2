@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2026-04-26 18:00:29
+lastmod: 2026-04-26 20:27:27
 ---
 
 ## Computer
@@ -17,6 +17,7 @@ lastmod: 2026-04-26 18:00:29
 
 - More crochet wool (more colours, same size)
 - Clothes dryer cover
+- Small dehumidifier
+- small air purifier
 - another bug net for window (two more small ones)
 - long sleeve uniqlo airism shirts
-- UVP sleeves
