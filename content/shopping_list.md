@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2026-04-26 20:27:27
+lastmod: 2026-04-30 15:36:36
 ---
 
 ## Computer
@@ -21,3 +21,7 @@ lastmod: 2026-04-26 20:27:27
 - small air purifier
 - another bug net for window (two more small ones)
 - long sleeve uniqlo airism shirts
+- [https://www.vivobarefoot.com/uk/primus-lite-iv-mens?colour=Midnight](https://www.vivobarefoot.com/uk/primus-lite-iv-mens?colour=Midnight)
+- [https://www.ker-sun.co.uk/products/men-uv-sleeves-gobi-black](https://www.ker-sun.co.uk/products/men-uv-sleeves-gobi-black)
+- [https://www.solbari.co.uk/products/men-elite-arm-sleeves-upf-50-coolasun-breeze?variant=39450272596070](https://www.solbari.co.uk/products/men-elite-arm-sleeves-upf-50-coolasun-breeze?variant=39450272596070)
+- [https://www.solbari.co.uk/products/mens-shoulder-wrap-cover-upf50-coolasun-breeze-collection?variant=39900807528550](https://www.solbari.co.uk/products/mens-shoulder-wrap-cover-upf50-coolasun-breeze-collection?variant=39900807528550)
