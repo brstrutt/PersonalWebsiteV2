@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2026-04-30 15:36:36
+lastmod: 2026-05-03 17:49:37
 ---
 
 ## Computer
@@ -12,6 +12,12 @@ lastmod: 2026-04-30 15:36:36
 ## Books
 
 - Shibuya Pixel Art Collection Book (2020, 2021, 2022, 2023, 2024)
+
+## Lego
+
+- Notre Dame
+- Neuschwanstein Castle
+- Tranquil Garden
 
 ## Misc
 
