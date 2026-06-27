@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2026-06-27 11:48:36
+lastmod: 2026-06-27 11:56:11
 ---
 
 ## Computer
@@ -51,4 +51,5 @@ lastmod: 2026-06-27 11:48:36
 
 - Clothes dryer cover like the one Tom has in his kitchen, it seems like a good idea
 - High qualifty Dehumidifier + Air Purifier
+- Some high quality towels (small and big)
 - New TV (min 1440p resolution, as many HDMI ports as possible, 5 would be ideal but might be hard to find, 2 is not enough)
