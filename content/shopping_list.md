@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 date: 2023-08-13
-lastmod: 2026-07-24 17:41:21
+lastmod: 2026-08-30 18:16:29
 ---
 
 ## Books
@@ -12,16 +12,6 @@ lastmod: 2026-07-24 17:41:21
 
 - Notre Dame
 - Neuschwanstein Castle
-
-## Crochet wool (Stylecraft Special DK)
-
-- Bluebell
-- Cream
-- Jaffa
-- Citron
-- White
-- Black
-- Violet
 
 ## Furniture
 
